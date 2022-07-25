@@ -1,4 +1,4 @@
-### Hi there I'm a data scientist 
+### Hi there, I'm a data scientist 
 
 <!--
 **athiq-ahmed/athiq-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
